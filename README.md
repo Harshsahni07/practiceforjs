@@ -1,0 +1,2 @@
+# practiceforjs
+javascript practice
